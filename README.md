@@ -10,13 +10,13 @@ End to End Supply Chain Management with eCommerce Suite for retailers
 - Material Design
 
 # Features
-- [Accounting and Finance](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Customer Relationship Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Purchase Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Inventory Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Manufacturing](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Human Resource Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Point of Sale](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Website](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Ecommerce](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
-- [Project Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md)
+- [Accounting and Finance](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#accounting-and-finance)
+- [Customer Relationship Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#Customer-Relationship-Management)
+- [Purchase Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#Purchase-Management)
+- [Inventory Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#Inventory-Management)
+- [Manufacturing](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#manufacturing)
+- [Human Resource Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#human-resource-management)
+- [Point of Sale](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#point-of-sale)
+- [Website](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#website)
+- [Ecommerce](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#ecommerce)
+- [Project Management](https://github.com/vicky1408/eSCHAM/blob/main/Documentation/README.md#Project-Management)
